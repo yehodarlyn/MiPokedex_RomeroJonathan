@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "romero.jonathan.mipokedex_romerojonathan.app-mergeDebugResources-59:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/jonyco/.gradle/caches/9.6.0/transforms/a86457c6b6d9866dcd233fc63ad3357b/transformed/appcompat-1.8.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

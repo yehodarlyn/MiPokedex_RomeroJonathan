@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/xml_data_extraction_rules.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_article.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_article.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_bolitas.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_bolitas.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/layout_activity_main.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable-xhdpi_wtp.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable-xhdpi/wtp.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable-hdpi_wtp.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable-hdpi/wtp.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_bg_esquinas_redondas.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/bg_esquinas_redondas.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_bg_pokebola.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/bg_pokebola.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_lucario.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/lucario.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_estrella.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_estrella.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable-xxhdpi_wtp.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable-xxhdpi/wtp.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_bulbasor.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/bulbasor.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_ic_perfil.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/ic_perfil.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_raichu.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/raichu.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/xml_backup_rules.xml.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable-xxxhdpi_wtp.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable-xxxhdpi/wtp.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_arbok.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/arbok.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable_pikachu.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable/pikachu.png"
+    },
+    {
+        "merged": "romero.jonathan.mipokedex_romerojonathan.app-debug-61:/drawable-mdpi_wtp.png.flat",
+        "source": "romero.jonathan.mipokedex_romerojonathan.app-main-63:/drawable-mdpi/wtp.png"
+    }
+]

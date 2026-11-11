@@ -1,0 +1,60 @@
+package romero.jonathan.mipokedex_romerojonathan.view.screens
+
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.statusBarsPadding
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import romero.jonathan.mipokedex_romerojonathan.view.componentes.EncabezadoPokemon
+import romero.jonathan.mipokedex_romerojonathan.view.componentes.NavegacionPokemon
+import romero.jonathan.mipokedex_romerojonathan.view.componentes.TarjetaInfo
+import romero.jonathan.mipokedex_romerojonathan.model.domain.Pokemon
+import romero.jonathan.mipokedex_romerojonathan.viewmodel.MenuPokedexViewModel
+import romero.jonathan.mipokedex_romerojonathan.view.preview.previewPokemones
+import androidx.lifecycle.viewmodel.compose.viewModel
+import romero.jonathan.mipokedex_romerojonathan.ui.theme.Amarillo
+import romero.jonathan.mipokedex_romerojonathan.ui.theme.PokedexTheme
+
+@Composable
+fun PokedexScreen(viewModel: MenuPokedexViewModel = viewModel(factory = MenuPokedexViewModel.Factory)) {
+    PokedexCarousel(viewModel.pokemonList)
+}
+
+@Composable
+private fun PokedexCarousel(pokemones: List<Pokemon>) {
+    if (pokemones.isEmpty()) return
+    var indice by rememberSaveable { mutableIntStateOf(0) }
+    val total = pokemones.size
+
+    PokedexContenido(
+        actual = pokemones[indice],
+        anterior = pokemones[(indice - 1 + total) % total],
+        siguiente = pokemones[(indice + 1) % total],
+        onAnterior = { indice = (indice - 1 + total) % total },
+        onSiguiente = { indice = (indice + 1) % total }
+    )
+}
+
+@Composable
+fun PokedexContenido(
+    actual: Pokemon, anterior: Pokemon, siguiente: Pokemon,
+    onAnterior: () -> Unit, onSiguiente: () -> Unit,
+    modifier: Modifier = Modifier
+) {
+    Column(modifier.fillMaxSize().background(Amarillo).statusBarsPadding()) {
+        EncabezadoPokemon(actual, Modifier.weight(0.35f))
+        TarjetaInfo(actual, Modifier.weight(0.65f)) {
+            NavegacionPokemon(anterior, siguiente, onAnterior, onSiguiente)
+        }
+    }
+}
+
+@Preview(showSystemUi = true)
+@Composable
+private fun PokedexScreenPreview() { PokedexTheme { PokedexCarousel(previewPokemones) } }
