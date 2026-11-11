@@ -1,0 +1,442 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/2652cd66d1ade63977b74a3c868b1cb3/transformed/navigation-common-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cbe5ce14c4e07e9ed47826dab2fb415f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cefb7bde5bfe444c6ee1fda6eceb0f43/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9301a004b08dc2c6e4f4d0cb8e104a2c/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c0b97ba6b94982d1bc5732e8640e9999/transformed/navigation-compose-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.14.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0c1adc650f8781d95405401695dafbea/transformed/material-1.14.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/a6e5273ac44096cf3121842223d13473/transformed/constraintlayout-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eeb4b9b2b915718e05635b6ed1a8fcd8/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/a86457c6b6d9866dcd233fc63ad3357b/transformed/appcompat-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/75dbe066418e8e870bd4e119e136a96b/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c682d64550db2d254bb65c90fbe2640e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eb7c9f76d1b8e998d463e407b2a50ba7/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/418a9ae866dd69e0ebd8a8f4fc9db590/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/74cbf72f615e7927f141796c198a30cb/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b18a89a3624ffc9e6aff740d3653f78a/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/cdf7017f4725b82204887eb56ac72d04/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bac7fa578873a35ffffd4947904bb17/transformed/material/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/201be4cef985a684aaf264f3f696797b/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/05a1c550a3d5467ab3fca2656f16b0fa/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e4c1b611c4533be4157dcb35494010b/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/645e7650bd3336fcebbc1dc4355e9ee1/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/43311a9e3b9c06ddf007db45779abb0c/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/86b76475d5cc7b009ce8b00e547491ba/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd9d6fb484525e0918718d085d11d24e/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/5ec94c53d65f3b056c767a0595cba657/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/537abd87f1dda62ef80544a0af381a02/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.animation:animation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f45a4c8f57d3cddbae2bdcbc7b4015e/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/22df80ee99e8ba074c36a0031eb656b8/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/788c7c849c68577726531daab7516f54/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4be1f6c69aa0197161e4dd6374431cd/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c1bf6cc30f66174a1e3d37cbfc6e2076/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8ed08ddbf8e23c7f58d08bf69e0d4111/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd524cce2738184e20d2c9564fd0c612/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bb67423b7505c577da3ef81a7134274/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/adf1000e8ec6cd760bb6160c44405496/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0b3b084e88c7546254ac45424983ae34/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4eece9cafbd4bb1377d9a2bd068f748/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/11667cb9354875ef2059d66c39efc251/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/fb62ff6743e14b9ec9fe4273024b5842/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b445295b24d89096218e42341e1795d3/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/263bbcf230cc0f973522b925574df06f/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/3294250cdb7f5a16c6385cb172c732ac/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/f2979fb2cab0609317fdec345871fdfc/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/15d1d753415fa1d6b517b1a0010af835/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c6be5e1327d98f517f3548576621330f/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/2eefa24f6c88be2cf7fea01df6a6f8d2/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/76f9f18ff8c5165179f3d925c062948d/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/1e046fdfa190ecddac28dc50e45ee016/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/d628f3b8ec129c84e9f20f7192e284b4/transformed/core-ktx-1.19.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/c93718684ee7d03a4a37c2a6b796df62/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/2c407376b4291675d547cc4fd7bf38c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/d2864ebfa292eeddc2682a2a992ef797/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/5b7c65b47ecda2ba1024a4e91d820f0e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8493c8c16745c3a48bb348fb15b6264b/transformed/customview-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.6.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/94d52bc2f3f0c8a299bd0cc1c280722e/transformed/transition-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8df5da4a9363ab66bce344ee29ac4440/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/118aa71181aa875661b38f7be4162d32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/3f4cc5ad4051354ccfd8504765ce3a25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/11baab02ecffea366412d48d391a1055/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b7766ad705ff697e81055545abc1bcd/transformed/window-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b388b6ab1c2f96478dd07262901521c/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9f30437dd29fbebc5e87251e45343cc1/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/4ec35c3a40b4c1c12866e3369cc07061/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/dc8aa2349723585fdce0a97dd8547cdd/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b42177fb582f9973c7694097a063e0d/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/619c2c6ec57ae4ec0b93bd323c18e58f/transformed/activity-compose-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/08f887b1a3579d4b6991bc2b9834cc59/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/b4a719f2c497ae12d4942a670c5692c4/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/16ecb38d95f6da080f6bc42bacf7749b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/0d3e43e9b6277d3569724fa4bce8583f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/216c01487e2197a5b137441d6c08844e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/fec0d0a36dddff87eb6eca94c6cbb345/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ecd838a0b24adcbb43c4510d0a6b6797/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f7b74607750310f3e8a316bb373c4a3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/bafd98a85c2c068b7c5e35e35fa211ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e7cff1418f66719edda7a74cc4b4ef9/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.14.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0c1adc650f8781d95405401695dafbea/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0c1adc650f8781d95405401695dafbea/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/a6e5273ac44096cf3121842223d13473/transformed/constraintlayout-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/a6e5273ac44096cf3121842223d13473/transformed/constraintlayout-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/bafd98a85c2c068b7c5e35e35fa211ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/bafd98a85c2c068b7c5e35e35fa211ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:10:9-49
+	android:fullBackupContent
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:13:9-62
+	android:dataExtractionRules
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:7:9-65
+activity#romero.jonathan.mipokedex_romerojonathan.MainActivity
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:windowSoftInputMode
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:17:13-55
+	android:exported
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/2652cd66d1ade63977b74a3c868b1cb3/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/2652cd66d1ade63977b74a3c868b1cb3/transformed/navigation-common-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cbe5ce14c4e07e9ed47826dab2fb415f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cbe5ce14c4e07e9ed47826dab2fb415f/transformed/navigation-runtime-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cefb7bde5bfe444c6ee1fda6eceb0f43/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/cefb7bde5bfe444c6ee1fda6eceb0f43/transformed/navigation-common-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9301a004b08dc2c6e4f4d0cb8e104a2c/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9301a004b08dc2c6e4f4d0cb8e104a2c/transformed/navigation-runtime-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c0b97ba6b94982d1bc5732e8640e9999/transformed/navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c0b97ba6b94982d1bc5732e8640e9999/transformed/navigation-compose-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.14.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0c1adc650f8781d95405401695dafbea/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0c1adc650f8781d95405401695dafbea/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/a6e5273ac44096cf3121842223d13473/transformed/constraintlayout-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/a6e5273ac44096cf3121842223d13473/transformed/constraintlayout-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eeb4b9b2b915718e05635b6ed1a8fcd8/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eeb4b9b2b915718e05635b6ed1a8fcd8/transformed/appcompat-resources-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/a86457c6b6d9866dcd233fc63ad3357b/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/a86457c6b6d9866dcd233fc63ad3357b/transformed/appcompat-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/75dbe066418e8e870bd4e119e136a96b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/75dbe066418e8e870bd4e119e136a96b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c682d64550db2d254bb65c90fbe2640e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c682d64550db2d254bb65c90fbe2640e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eb7c9f76d1b8e998d463e407b2a50ba7/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/eb7c9f76d1b8e998d463e407b2a50ba7/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/418a9ae866dd69e0ebd8a8f4fc9db590/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/418a9ae866dd69e0ebd8a8f4fc9db590/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/74cbf72f615e7927f141796c198a30cb/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/74cbf72f615e7927f141796c198a30cb/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b18a89a3624ffc9e6aff740d3653f78a/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b18a89a3624ffc9e6aff740d3653f78a/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/cdf7017f4725b82204887eb56ac72d04/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/cdf7017f4725b82204887eb56ac72d04/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bac7fa578873a35ffffd4947904bb17/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bac7fa578873a35ffffd4947904bb17/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/201be4cef985a684aaf264f3f696797b/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/201be4cef985a684aaf264f3f696797b/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/05a1c550a3d5467ab3fca2656f16b0fa/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/05a1c550a3d5467ab3fca2656f16b0fa/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e4c1b611c4533be4157dcb35494010b/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e4c1b611c4533be4157dcb35494010b/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/645e7650bd3336fcebbc1dc4355e9ee1/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/645e7650bd3336fcebbc1dc4355e9ee1/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/43311a9e3b9c06ddf007db45779abb0c/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/43311a9e3b9c06ddf007db45779abb0c/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/86b76475d5cc7b009ce8b00e547491ba/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/86b76475d5cc7b009ce8b00e547491ba/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd9d6fb484525e0918718d085d11d24e/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd9d6fb484525e0918718d085d11d24e/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/5ec94c53d65f3b056c767a0595cba657/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/5ec94c53d65f3b056c767a0595cba657/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/537abd87f1dda62ef80544a0af381a02/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/537abd87f1dda62ef80544a0af381a02/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f45a4c8f57d3cddbae2bdcbc7b4015e/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f45a4c8f57d3cddbae2bdcbc7b4015e/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/22df80ee99e8ba074c36a0031eb656b8/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/22df80ee99e8ba074c36a0031eb656b8/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/788c7c849c68577726531daab7516f54/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/788c7c849c68577726531daab7516f54/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4be1f6c69aa0197161e4dd6374431cd/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4be1f6c69aa0197161e4dd6374431cd/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c1bf6cc30f66174a1e3d37cbfc6e2076/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c1bf6cc30f66174a1e3d37cbfc6e2076/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8ed08ddbf8e23c7f58d08bf69e0d4111/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/8ed08ddbf8e23c7f58d08bf69e0d4111/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd524cce2738184e20d2c9564fd0c612/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/bd524cce2738184e20d2c9564fd0c612/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bb67423b7505c577da3ef81a7134274/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/1bb67423b7505c577da3ef81a7134274/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/adf1000e8ec6cd760bb6160c44405496/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/adf1000e8ec6cd760bb6160c44405496/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0b3b084e88c7546254ac45424983ae34/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/0b3b084e88c7546254ac45424983ae34/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4eece9cafbd4bb1377d9a2bd068f748/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/e4eece9cafbd4bb1377d9a2bd068f748/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/11667cb9354875ef2059d66c39efc251/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/11667cb9354875ef2059d66c39efc251/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/fb62ff6743e14b9ec9fe4273024b5842/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/fb62ff6743e14b9ec9fe4273024b5842/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b445295b24d89096218e42341e1795d3/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/b445295b24d89096218e42341e1795d3/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/263bbcf230cc0f973522b925574df06f/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/263bbcf230cc0f973522b925574df06f/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/3294250cdb7f5a16c6385cb172c732ac/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/3294250cdb7f5a16c6385cb172c732ac/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/f2979fb2cab0609317fdec345871fdfc/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/f2979fb2cab0609317fdec345871fdfc/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/15d1d753415fa1d6b517b1a0010af835/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/15d1d753415fa1d6b517b1a0010af835/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c6be5e1327d98f517f3548576621330f/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/c6be5e1327d98f517f3548576621330f/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/2eefa24f6c88be2cf7fea01df6a6f8d2/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/2eefa24f6c88be2cf7fea01df6a6f8d2/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/76f9f18ff8c5165179f3d925c062948d/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/76f9f18ff8c5165179f3d925c062948d/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/1e046fdfa190ecddac28dc50e45ee016/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/1e046fdfa190ecddac28dc50e45ee016/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/d628f3b8ec129c84e9f20f7192e284b4/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/d628f3b8ec129c84e9f20f7192e284b4/transformed/core-ktx-1.19.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/c93718684ee7d03a4a37c2a6b796df62/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/c93718684ee7d03a4a37c2a6b796df62/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/2c407376b4291675d547cc4fd7bf38c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/2c407376b4291675d547cc4fd7bf38c4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/d2864ebfa292eeddc2682a2a992ef797/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/d2864ebfa292eeddc2682a2a992ef797/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/5b7c65b47ecda2ba1024a4e91d820f0e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/5b7c65b47ecda2ba1024a4e91d820f0e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8493c8c16745c3a48bb348fb15b6264b/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8493c8c16745c3a48bb348fb15b6264b/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/94d52bc2f3f0c8a299bd0cc1c280722e/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/94d52bc2f3f0c8a299bd0cc1c280722e/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8df5da4a9363ab66bce344ee29ac4440/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8df5da4a9363ab66bce344ee29ac4440/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/118aa71181aa875661b38f7be4162d32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/118aa71181aa875661b38f7be4162d32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/3f4cc5ad4051354ccfd8504765ce3a25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/3f4cc5ad4051354ccfd8504765ce3a25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/11baab02ecffea366412d48d391a1055/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/11baab02ecffea366412d48d391a1055/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b7766ad705ff697e81055545abc1bcd/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b7766ad705ff697e81055545abc1bcd/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b388b6ab1c2f96478dd07262901521c/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/7b388b6ab1c2f96478dd07262901521c/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9f30437dd29fbebc5e87251e45343cc1/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/9f30437dd29fbebc5e87251e45343cc1/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/4ec35c3a40b4c1c12866e3369cc07061/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/4ec35c3a40b4c1c12866e3369cc07061/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/dc8aa2349723585fdce0a97dd8547cdd/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/dc8aa2349723585fdce0a97dd8547cdd/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b42177fb582f9973c7694097a063e0d/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b42177fb582f9973c7694097a063e0d/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/619c2c6ec57ae4ec0b93bd323c18e58f/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/619c2c6ec57ae4ec0b93bd323c18e58f/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/08f887b1a3579d4b6991bc2b9834cc59/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/08f887b1a3579d4b6991bc2b9834cc59/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/b4a719f2c497ae12d4942a670c5692c4/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.2] /Users/jonyco/.gradle/caches/9.6.0/transforms/b4a719f2c497ae12d4942a670c5692c4/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/16ecb38d95f6da080f6bc42bacf7749b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/16ecb38d95f6da080f6bc42bacf7749b/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/0d3e43e9b6277d3569724fa4bce8583f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/0d3e43e9b6277d3569724fa4bce8583f/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/216c01487e2197a5b137441d6c08844e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/216c01487e2197a5b137441d6c08844e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/fec0d0a36dddff87eb6eca94c6cbb345/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/fec0d0a36dddff87eb6eca94c6cbb345/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ecd838a0b24adcbb43c4510d0a6b6797/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ecd838a0b24adcbb43c4510d0a6b6797/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f7b74607750310f3e8a316bb373c4a3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/8f7b74607750310f3e8a316bb373c4a3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/bafd98a85c2c068b7c5e35e35fa211ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/bafd98a85c2c068b7c5e35e35fa211ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e7cff1418f66719edda7a74cc4b4ef9/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/0e7cff1418f66719edda7a74cc4b4ef9/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/7ecc234cd531adab5e4f58859aead485/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jonyco/.gradle/caches/9.6.0/transforms/9db2764838d3750c57d1fb27d65546fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/e80b3ef7714966936bee2bcfe85eab7d/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/jonyco/.gradle/caches/9.6.0/transforms/6b704b55b515bdee039c87e6c7ef34dd/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/095fb6c88aa966cde16174d2c47da824/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+permission#romero.jonathan.mipokedex_romerojonathan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+uses-permission#romero.jonathan.mipokedex_romerojonathan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/ec88d76d9ab14b2a2f30e70296fef8da/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/jonyco/.gradle/caches/9.6.0/transforms/dd2f03cdc90609f96d13448e50b172ea/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

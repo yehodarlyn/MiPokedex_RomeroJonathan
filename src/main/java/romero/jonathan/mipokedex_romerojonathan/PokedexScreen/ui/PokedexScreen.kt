@@ -15,12 +15,12 @@ import romero.jonathan.mipokedex_romerojonathan.PokedexScreen.EncabezadoPokemon
 import romero.jonathan.mipokedex_romerojonathan.PokedexScreen.NavegacionPokemon
 import romero.jonathan.mipokedex_romerojonathan.PokedexScreen.TarjetaInfo
 import romero.jonathan.mipokedex_romerojonathan.pokemones.Pokemon
-import romero.jonathan.mipokedex_romerojonathan.pokemones.PokemonRepositorio
 import romero.jonathan.mipokedex_romerojonathan.ui.theme.Amarillo
 import romero.jonathan.mipokedex_romerojonathan.ui.theme.PokedexTheme
 
 @Composable
-fun PokedexScreen(pokemones: List<Pokemon> = PokemonRepositorio.pokemones) {
+fun PokedexScreen(pokemones: List<Pokemon>) {
+    if (pokemones.isEmpty()) return
     var indice by rememberSaveable { mutableIntStateOf(0) }
     val total = pokemones.size
 
@@ -49,4 +49,4 @@ fun PokedexContenido(
 
 @Preview(showSystemUi = true)
 @Composable
-private fun PokedexScreenPreview() { PokedexTheme { PokedexScreen() } }
+private fun PokedexScreenPreview() { PokedexTheme { PokedexScreen(emptyList()) } }

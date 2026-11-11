@@ -1,0 +1,8 @@
+romero.jonathan.mipokedex_romerojonathan.app-pngs-0 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/build/generated/res/pngs/debug
+romero.jonathan.mipokedex_romerojonathan.app-updated_navigation_xml-1 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/build/generated/updated_navigation_xml/debug
+romero.jonathan.mipokedex_romerojonathan.app-packageDebugResources-2 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+romero.jonathan.mipokedex_romerojonathan.app-packageDebugResources-3 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+romero.jonathan.mipokedex_romerojonathan.app-debug-4 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/build/intermediates/merged_res/debug/mergeDebugResources
+romero.jonathan.mipokedex_romerojonathan.app-debug-5 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/debug/res
+romero.jonathan.mipokedex_romerojonathan.app-main-6 /Users/jonyco/Documents/GitHub/MiPokedex_RomeroJonathan/app/src/main/res
+gradleHome-0 /Users/jonyco/.gradle
